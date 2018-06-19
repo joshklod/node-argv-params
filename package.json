@@ -1,0 +1,29 @@
+{
+  "name": "node-argv-params",
+  "version": "0.1.0",
+  "description": "Map Node's `process.argv` to the positional parameters of a function",
+  "main": "main.js",
+  "author": {
+    "name": "Josh Klodnicki",
+    "email": "joshklod@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshklod/node-argv-params.git"
+  },
+  "keywords": [
+    "node",
+    "argv",
+    "params",
+    "function",
+    "args",
+    "arguments",
+    "positional",
+    "parameters"
+  ],
+  "bugs": {
+    "url": "https://github.com/joshklod/node-argv-params/issues"
+  },
+  "homepage": "https://github.com/joshklod/node-argv-params#readme"
+}
